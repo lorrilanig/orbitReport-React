@@ -1,4 +1,4 @@
-
+import './styling.css';
 let Banner = () => {
     return (
         <>

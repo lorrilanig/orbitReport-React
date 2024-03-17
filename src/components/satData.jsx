@@ -1,3 +1,4 @@
+import './styling.css';
 const satData = [
    {
      id: 1,
